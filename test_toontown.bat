@@ -2,7 +2,7 @@
 echo 1:regular server
 echo 2:prolouge
 echo 3:selection
-=================
+================
 set_PLAYCOOKIE=start.py
 set_GAMESERVER=ToontownLauncher.py
 ToontownLauncher.py
